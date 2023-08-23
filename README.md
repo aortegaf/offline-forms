@@ -8,3 +8,5 @@ React Native application for field data collection.
 2. Install yarn
 3. Run the application: yarn start
 4. Scan QR using Expo Go on your phone
+
+##### Additional packages
